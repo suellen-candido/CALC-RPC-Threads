@@ -1,0 +1,6 @@
+# uma operacao por linha
+10 + 5
+20 - 8
+6 * 7
+100 / 4
+9 / 0
